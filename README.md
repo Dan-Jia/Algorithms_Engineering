@@ -15,11 +15,13 @@ Algorithms implementation in C++ to:
   git clone https://github.com/shellswestern/Algorithms_Engineering.git
 ```
 2. Run a program 
+E.g. for Fibonacci Number program:
 ```markdown
   mkdir build
   cd build
   cmake ..
   cmake --build .
+  ./fib 6
 ```
 Run the unit tests:
 ```markdown
