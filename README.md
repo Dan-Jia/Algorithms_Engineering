@@ -21,7 +21,7 @@ Algorithms implementation in C++ to:
   cmake ..
   cmake --build .
 ```
-To run unit testing:
+Run the unit tests:
 ```markdown
   ctest -V
 ```
