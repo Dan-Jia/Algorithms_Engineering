@@ -21,7 +21,7 @@ E.g. for Fibonacci Number program:
   cd build
   cmake ..
   cmake --build .
-  ./fib 6
+  ./fib 6 (an example number)
 ```
 Run the unit tests:
 ```markdown
