@@ -9,5 +9,8 @@ Algorithms implementation in C++ to:
 
 (More specific instructions for each algorithm can be found in the .pdf file in the same folder)
 
-
-
+## Usage
+1. Clone the repository
+```markdown
+  git clone https://github.com/shellswestern/Algorithms_Engineering.git
+```
