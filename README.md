@@ -14,3 +14,14 @@ Algorithms implementation in C++ to:
 ```markdown
   git clone https://github.com/shellswestern/Algorithms_Engineering.git
 ```
+2. Run a program 
+```markdown
+  mkdir build
+  cd build
+  cmake ..
+  cmake --build .
+```
+To run unit testing:
+```markdown
+  ctest -V
+```
