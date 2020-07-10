@@ -7,7 +7,7 @@ Algorithms implementation in C++ to:
 * Compute the memory bandwidth using OpenMP
 * Unit testing in three situations
 
-(More specific instructions for each algorithm can be found in the .pdf file in the same folder)
+(More specific information for each algorithm can be found in the .pdf file in the same folder)
 
 ## Usage
 1. Clone the repository
